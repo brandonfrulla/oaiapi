@@ -57,7 +57,7 @@ $ export OAI_API_KEY=your-api-key-here
 $ python interact_with_chatgpt.py my_context.txt
 Your prompt (or type 'quit' to exit): How are you?
 ChatGPT: I'm just a computer program, so I don't have feelings. How can I assist you today?
-
+```
 
 ## Notes
 The script uses argparse for command-line argument parsing.
