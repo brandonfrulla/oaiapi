@@ -1,10 +1,3 @@
-# README for ChatGPT Interaction Script
- ______  ______  __   __  _____       __      ______  ______  __  __    
-/\  ___\/\  ___\/\ "-.\ \/\  __-.    /\ \    /\  __ \/\  __ \/\ \/ /    
-\ \___  \ \ \___\ \ \-.  \ \ \/\ \   \ \ \___\ \ \/\ \ \ \/\ \ \  _"-.  
- \/\_____\ \_____\ \_\\"\_\ \____-    \ \_____\ \_____\ \_____\ \_\ \_\ 
-  \/_____/\/_____/\/_/ \/_/\/____/     \/_____/\/_____/\/_____/\/_/\/_/ 
-                                                                        
 ## Overview
 
 This script provides a command-line interface to interact with OpenAI's GPT-3 model, specifically the "text-davinci-003" model. It allows the user to provide a text file as context and then engage in a conversation with ChatGPT based on that context.
