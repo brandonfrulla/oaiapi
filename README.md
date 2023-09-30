@@ -44,7 +44,7 @@ The entry point of the script. Handles argument parsing and user interaction loo
 ## How to Use
 
 1. Set up your environment variables (OAI_ORG and OAI_API_KEY).
-2. Run python <script_name>.py <filename> where <filename> is the path to your context file.
+2. Run `python <script_name>.py <filename> --lang python` where <filename> is the path to your context file.
 3. You will be prompted to input your questions or statements.
 4. Type 'quit' to exit the script.
 
